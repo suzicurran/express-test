@@ -1,0 +1,9 @@
+{
+    "name": "express-test",
+    "version": "0.0.1",
+    "description": "Testing Express.js",
+    "author": "Suzi Curran <suzicurran@gmail.com>",
+    "dependencies": {
+        "express": "^4.15.4"
+    }
+}
